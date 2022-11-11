@@ -19,7 +19,7 @@ B2111880 00000000
 D2000000 00000000
 ```
 
-- Chane Character Appearance
+- Change Character Appearance
     1. change char (Soul Silver Hero Male)
         ```
         62111880 00000000
